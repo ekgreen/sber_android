@@ -1,3 +1,7 @@
 <resources>
     <string name="app_name">ThimblesGame</string>
+    <string name="rest_button">rest</string>
+    <string name="show_button">show</string>
+
+    <string name="image_desc">Game element</string>
 </resources>
